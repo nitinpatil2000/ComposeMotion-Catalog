@@ -38,7 +38,8 @@ A sleek, production-ready Android application built with **Jetpack Compose**, de
 
 ## 📱 Screenshots / Demo
 
-*(Add your app demo GIFs or screenshots here)*
+https://github.com/user-attachments/assets/90583fc5-b357-4495-a4c3-b07582db306d
+
 
 ---
 
